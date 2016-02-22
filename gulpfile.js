@@ -41,20 +41,6 @@ function errorAlertPost(error) {
     this.emit("end");
 };
 
-gulp.task('imagemin', function() {
-    return gulp.src(imgSrc)
-        .pipe(imagemin({
-            progressive: true,
-            svgoPlugins: [{
-                removeViewBox: false
-            }],
-            use: [pngquant()]
-        }))
-        .pipe(gulp.dest(imgDist));
-});
-
-
-
 gulp.task('images', function() {
     return gulp.src(imgSrc)
         .pipe(newer(imgDist))
@@ -77,9 +63,7 @@ gulp.task('css', function() {
         atImport,
         cssnext,
         nested,
-        autoprefixer({
-            browsers: ['last 2 version']
-        }),
+        autoprefixer,
         pxtorem({
             root_value: 16,
             unit_precision: 2,
