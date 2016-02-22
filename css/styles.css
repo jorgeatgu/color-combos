@@ -436,5 +436,19 @@ th {
   padding: 0;
 }
 
+.arimo {
+	font-family: 'Arimo', sans-serif;
+}
 
+.hind {
+	font-family: 'Hind', sans-serif;
+}
+
+.cc1-bg {
+	background-color: #FEC845;
+}
+
+.cc1-fr {
+	color: #65065A;
+}
 /*# sourceMappingURL=styles.css.map */

@@ -1,3 +1,18 @@
 @import '_reset';
 @import '_variables';
 
+.arimo {
+	font-family: var(--Arimo);
+}
+
+.hind {
+	font-family: var(--Hind);
+}
+
+.cc1-bg {
+	background-color: var(--bG-cc1);
+}
+
+.cc1-fr {
+	color: var(--fG-cc1);
+}
