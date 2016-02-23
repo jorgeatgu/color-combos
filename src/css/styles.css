@@ -74,3 +74,19 @@
 	color: var(--fG-cc1);
 }
 
+.cc2-bg {
+	background-color: var(--bG-cc2);
+}
+
+.cc2-fr {
+	color: var(--fG-cc2);
+}
+
+.cc3-bg {
+	background-color: var(--bG-cc3);
+}
+
+.cc3-fr {
+	color: var(--fG-cc3);
+}
+
