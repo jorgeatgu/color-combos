@@ -498,7 +498,7 @@ th {
 	box-sizing: border-box;
 	padding: 1.25rem 2.5rem;
 
-	border: 1px solid #000;
+	border: 1px solid #111;
 }
 
 .cc-texto {
@@ -510,7 +510,7 @@ th {
 	background-color: #FEC845;
 }
 
-.cc1-fr {
+.cc1-fg {
 	color: #65065A;
 }
 
@@ -518,7 +518,7 @@ th {
 	background-color: #E1DCE3;
 }
 
-.cc2-fr {
+.cc2-fg {
 	color: #271764;
 }
 
@@ -526,8 +526,16 @@ th {
 	background-color: #E4A824;
 }
 
-.cc3-fr {
+.cc3-fg {
 	color: #242424;
+}
+
+.cc4-bg {
+	background-color: #E5EDB7;
+}
+
+.cc4-fg {
+	color: #642626;
 }
 
 

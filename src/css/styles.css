@@ -55,7 +55,7 @@
 
 .cc-background,
 .cc-foreground {
-	border: 1px solid #000;
+	border: 1px solid #111;
 	padding: 20px 40px;
 	box-sizing: border-box;
 	display: inline-block;
@@ -70,7 +70,7 @@
 	background-color: var(--bG-cc1);
 }
 
-.cc1-fr {
+.cc1-fg {
 	color: var(--fG-cc1);
 }
 
@@ -78,7 +78,7 @@
 	background-color: var(--bG-cc2);
 }
 
-.cc2-fr {
+.cc2-fg {
 	color: var(--fG-cc2);
 }
 
@@ -86,7 +86,15 @@
 	background-color: var(--bG-cc3);
 }
 
-.cc3-fr {
+.cc3-fg {
 	color: var(--fG-cc3);
+}
+
+.cc4-bg {
+	background-color: var(--bG-cc4);
+}
+
+.cc4-fg {
+	color: var(--fG-cc4);
 }
 
