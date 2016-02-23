@@ -98,3 +98,11 @@
 	color: var(--fG-cc4);
 }
 
+.cc5-bg {
+	background-color: var(--bG-cc5);
+}
+
+.cc5-fg {
+	color: var(--fG-cc5);
+}
+
