@@ -444,6 +444,60 @@ th {
 	font-family: 'Hind', sans-serif;
 }
 
+.cc {
+	box-sizing: border-box;
+	width: 100%;
+	padding: 1.25rem 3.13rem;
+}
+
+.vm {
+	display: inline-block;
+
+	vertical-align: middle;
+}
+
+.cc-header {
+	font-size: 0;
+
+	width: 100%;
+}
+
+.cc-clasificacion,
+.cc-puntuacion {
+	display: inline-block;
+
+	width: 50%;
+}
+
+.cc-clasificacion {
+	font-size: 5.63rem;
+}
+
+.cc-puntuacion {
+	font-size: 3.75rem;
+
+	text-align: right;
+}
+
+.cc-colors span {
+  font-weight: bold;
+}
+
+.cc-background,
+.cc-foreground {
+	display: inline-block;
+
+	box-sizing: border-box;
+	padding: 1.25rem 2.5rem;
+
+	border: 1px solid #000;
+}
+
+.cc-texto {
+	font-size: 1.5rem;
+	line-height: 1.88rem;
+}
+
 .cc1-bg {
 	background-color: #FEC845;
 }
@@ -451,4 +505,6 @@ th {
 .cc1-fr {
 	color: #65065A;
 }
+
+
 /*# sourceMappingURL=styles.css.map */

@@ -9,6 +9,56 @@
 	font-family: var(--Hind);
 }
 
+.cc {
+	width: 100%;
+	box-sizing: border-box;
+	padding: 20px 50px;
+}
+
+.vm {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.cc-header {
+	font-size: 0;
+	width: 100%;
+}
+
+.cc-clasificacion,
+.cc-puntuacion {
+	display: inline-block;
+	width: 50%;
+}
+
+.cc-clasificacion {
+	font-size: 90px;
+}
+
+.cc-puntuacion {
+	font-size: 60px;
+	text-align: right;
+}
+
+.cc-colors {
+	span {
+		font-weight: bold;
+	}
+}
+
+.cc-background,
+.cc-foreground {
+	border: 1px solid #000;
+	padding: 20px 40px;
+	box-sizing: border-box;
+	display: inline-block;
+}
+
+.cc-texto {
+	font-size: 24px;
+	line-height: 30px;
+}
+
 .cc1-bg {
 	background-color: var(--bG-cc1);
 }
@@ -16,3 +66,4 @@
 .cc1-fr {
 	color: var(--fG-cc1);
 }
+
