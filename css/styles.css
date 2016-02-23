@@ -462,11 +462,19 @@ th {
 	width: 100%;
 }
 
+.colorable {
+	font-size: 1rem;
+
+	box-sizing: border-box;
+	padding: 0 3.13rem;
+}
+
 .cc-clasificacion,
 .cc-puntuacion {
 	display: inline-block;
 
 	width: 50%;
+	margin: 0.31rem 0;
 }
 
 .cc-clasificacion {

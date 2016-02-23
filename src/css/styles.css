@@ -25,10 +25,17 @@
 	width: 100%;
 }
 
+.colorable {
+	font-size: 16px;
+	padding: 0 50px;
+	box-sizing: border-box;
+}
+
 .cc-clasificacion,
 .cc-puntuacion {
 	display: inline-block;
 	width: 50%;
+	margin: 5px 0;
 }
 
 .cc-clasificacion {
