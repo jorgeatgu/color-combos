@@ -99,10 +99,42 @@
 }
 
 .cc5-bg {
-	background-color: var(--bG-cc5);
+  background-color: var(--bG-cc5);
 }
 
 .cc5-fg {
-	color: var(--fG-cc5);
+  color: var(--fG-cc5);
+}
+
+.cc6-bg {
+  background-color: var(--bG-cc6);
+}
+
+.cc6-fg {
+  color: var(--fG-cc6);
+}
+
+.cc7-bg {
+  background-color: var(--bG-cc7);
+}
+
+.cc7-fg {
+  color: var(--fG-cc7);
+}
+
+.cc8-bg {
+  background-color: var(--bG-cc8);
+}
+
+.cc8-fg {
+  color: var(--fG-cc8);
+}
+
+.cc9-bg {
+	background-color: var(--bG-cc9);
+}
+
+.cc9-fg {
+	color: var(--fG-cc9);
 }
 

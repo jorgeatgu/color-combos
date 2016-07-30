@@ -1,4 +1,4 @@
- /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
+/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 
 /**
  * 1. Set default font family to sans-serif.
@@ -539,11 +539,43 @@ th {
 }
 
 .cc5-bg {
-	background-color: #EFE6DF;
+  background-color: #EFE6DF;
 }
 
 .cc5-fg {
-	color: #8D2A2A;
+  color: #8D2A2A;
+}
+
+.cc6-bg {
+  background-color: #c0f209;
+}
+
+.cc6-fg {
+  color: #112524;
+}
+
+.cc7-bg {
+  background-color: #0fe1be;
+}
+
+.cc7-fg {
+  color: #431729;
+}
+
+.cc8-bg {
+  background-color: #f0e7ff;
+}
+
+.cc8-fg {
+  color: #3243a2;
+}
+
+.cc9-bg {
+	background-color: #053584;
+}
+
+.cc9-fg {
+	color: #d2f6fd;
 }
 
 
